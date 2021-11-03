@@ -1,0 +1,72 @@
+[
+	{
+		"nameInPoint": "D-11",
+		"durationInPoint": 36,
+		"nextPoint": "F-11"
+	}, 
+	{
+		"nameInPoint": "F-11",
+		"durationInPoint": 48,
+		"nextPoint": "I-11"
+	}, 
+	{
+		"nameInPoint": "L-11",
+		"durationInPoint": 120,
+		"nextPoint": null
+	}, 
+	{
+		"nameInPoint": "G-11",
+		"durationInPoint": 72,
+		"nextPoint": "H-11"
+	}, 
+	{
+		"nameInPoint": "H-11",
+		"durationInPoint": 60,
+		"nextPoint": "J-11"
+	}, 
+	{
+		"nameInPoint": "J-11",
+		"durationInPoint": 60,
+		"nextPoint": "M-11"
+	}, 
+	{
+		"nameInPoint": "M-11",
+		"durationInPoint": 60,
+		"nextPoint": null
+	}, 
+	{
+		"nameInPoint": "A-11",
+		"durationInPoint": 12,
+		"nextPoint": "D-11"
+	}, 
+	{
+		"nameInPoint": "I-11",
+		"durationInPoint": 24,
+		"nextPoint": "L-11"
+	}, 
+	{
+		"nameInPoint": "A-11",
+		"durationInPoint": 12,
+		"nextPoint": "B-11"
+	}, 
+	{
+		"nameInPoint": "B-11",
+		"durationInPoint": 24,
+		"nextPoint": "D-11"
+	}, 
+	{
+		"nameInPoint": "B-11",
+		"durationInPoint": 24,
+		"nextPoint": "E-11"
+	}, 
+	{
+		"nameInPoint": "E-11",
+		"durationInPoint": 48,
+		"nextPoint": "G-11"
+	}, 
+	{
+		"nameInPoint": "C-11",
+		"durationInPoint": 12,
+		"nextPoint": "E-11"
+	}
+]

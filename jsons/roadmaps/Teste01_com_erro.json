@@ -1,0 +1,62 @@
+[
+	{
+		"nameInPoint": "D-01",
+		"durationInPoint": 36,
+		"nextPoint": "F-01"
+	}, 
+	{
+		"nameInPoint": "F-01",
+		"durationInPoint": 48,
+		"nextPoint": "H-01"
+	}, 
+	{
+		"nameInPoint": "H-01",
+		"durationInPoint": 60,
+		"nextoint": "I-01"
+	}, 
+	{
+		"nameInPoint": "H-01",
+		"durationInPoint": 60,
+		"nextPoint": "J-01"
+	}, 
+	{
+		"nameInPoint": "L-01",
+		"durationInPoint": 120,
+		"nextPoint": null
+	}, 
+	{
+		"nameInPoint": "J-01",
+		"durationInPoint": 60,
+		"nextPoint": "L-01"
+	}, 
+	{
+		"nameInPoint": "G-01",
+		"durationInPoint": 72,
+		"nextPoint": "H-01"
+	}, 
+	{
+		"nameInPoint": "A-01",
+		"durationInPoint": 12,
+		"nextPoint": "D-01"
+	}, 
+	{
+		"nameInPoint": "I-01",
+		"durationInPoint": 24,
+		"nextPoint": "L-01"
+	}, 
+	{
+		"nameInPoint": "B-01",
+		"durationInPoint": 24,
+		"nextPoint": "G-01"
+	}, 
+	{
+		"nameInPoint": "C-01",
+		"durationInPoint": 12,
+		"nextPoint": "E-01"
+	}, 
+	{
+		"nameInPoint": "E-01",
+		"durationInPoint": 48,
+		"nextPoint": "G-01"
+	}
+]

@@ -1,0 +1,77 @@
+[
+	{
+		"nameInPoint": "D-03",
+		"durationInPoint": 36,
+		"nextPoint": "F-03"
+	}, 
+	{
+		"nameInPoint": "F-03",
+		"durationInPoint": 48,
+		"nextPoint": "H-03"
+	}, 
+	{
+		"nameInPoint": "H-03",
+		"durationInPoint": 60,
+		"nextPoint": "I-03"
+	}, 
+	{
+		"nameInPoint": "L-03",
+		"durationInPoint": 120,
+		"nextPoint": null
+	}, 
+	{
+		"nameInPoint": "J-03",
+		"durationInPoint": 60,
+		"nextPoint": null
+	}, 
+	{
+		"nameInPoint": "G-03",
+		"durationInPoint": 72,
+		"nextPoint": "H-03"
+	}, 
+	{
+		"nameInPoint": "A-03",
+		"durationInPoint": 12,
+		"nextPoint": "D-03"
+	},
+	{
+		"nameInPoint": "I-03",
+		"durationInPoint": 24,
+		"nextPoint": "L-03"
+	}, 
+	{
+		"nameInPoint": "I-03",
+		"durationInPoint": 24,
+		"nextPoint": "J-03"
+	}, 
+	{
+		"nameInPoint": "A-03",
+		"durationInPoint": 12,
+		"nextPoint": "B-03"
+	}, 
+	{
+		"nameInPoint": "B-03",
+		"durationInPoint": 24,
+		"nextPoint": "D-03"
+	}, 
+	{
+		"nameInPoint": "B-03",
+		"durationInPoint": 24,
+		"nextPoint": "F-03"
+	}, 
+	{
+		"nameInPoint": "B-03",
+		"durationInPoint": 24,
+		"nextPoint": "E-03"
+	}, 
+	{
+		"nameInPoint": "E-03",
+		"durationInPoint": 48,
+		"nextPoint": "G-03"
+	}, 
+	{
+		"nameInPoint": "C-03",
+		"durationInPoint": 12,
+		"nextPoint": "E-03"
+	}
+]

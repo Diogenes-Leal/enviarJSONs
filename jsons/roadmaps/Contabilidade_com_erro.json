@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Bookkeeper",
+        "durationInPoint": 48,
+    	"nextPoint": "Accounting Technician"
+    }, 
+    {
+        "nameInPoint": "Accounting Technician",
+        "durationInPoint": 60,
+        "nextPoint": "Accounting Assistant"
+    }, 
+    {
+        "nameInPoint": "Accounting Assistant",
+        "durationInPoint": 60,
+        "nextPoint": "CPA"
+    },
+    {
+        "nameInPoint": "CPA",
+        "durationInPoint": 120,
+        "nextPoint": "Masters"
+    },
+    {
+        "nameInPoint": "CFO",
+        "durationInPoint": 120,
+        "nextPoint": null
+    },
+    {
+        "nameInPoint": "CPA",
+        "durationInPoint": 120,
+        "nextPoint": "CFO"
+    },
+    {
+        "nameInPoint": "Vocational",
+        "durationInPoint": 12,
+        "nextPoint": "Bookkeeper"
+    },
+    {
+        "nameInPoint": "Associate",
+        "durationInPoint": 24,
+        "nextPoint": "Accounting Technician"
+    },
+    {
+        "nameInPoint": "Associate",
+        "durationInPoint": 24,
+        "nextPoint": "Bachelor"
+    },
+    {
+        "nameInPoint": "Bachelor",
+        "durationInPoint": 24,
+        "nextPoint": "Accounting Assistant"
+    },
+    {
+        "nameInPoint": "Masters",
+        "durationInPoint": 24,
+        "nextPoint": "CFO"
+    }
+]

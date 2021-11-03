@@ -1,0 +1,62 @@
+[
+    {
+        "nameInPoint": "Drafter",
+        "durationInPoint": 48,
+        "nextPoint": "Chief Drafter"
+    },
+    {
+        "nameInPoint": "Chief Drafter",
+        "durationInPoint": 60,
+        "nextPoint": "Chief Design Drafter"
+    },
+    {
+        "nameInPoint": "Chief Design Drafter",
+        "durationInPoint": 60,
+        "nextPoint": "Architect"
+    },
+    {
+        "nameInPoint": "Architect",
+        "durationInPoint": 120,
+        "nextPoint": "Architect Supervisor"
+    },
+    {
+        "nameInPoint": "Architect Supervisor",
+        "durationInPoint": 120,
+        "nextPoint": null
+    },
+    {
+        "nameInPoint": "Architect",
+        "durationInPoint": 120,
+        "nextPoint": "Masters"
+    },
+    {
+        "nameInPoint": "Vocational",
+        "durationInPoint": 12,
+        "nextPoint": "Drafter"
+    },
+    {
+        "nameInPoint": "Associate",
+        "durationInPoint": 24,
+        "nextPoint": "Chief Drafter"
+    },
+    {
+        "nameInPoint": "Associate",
+        "durationInPoint": 24,
+        "nextPoint": "Bachelor"
+    },
+    {
+        "nameInPoint": "Bachelor",
+        "durationInPoint": 24,
+        "nextPoint": "Chief Drafter"
+    },
+    {
+        "nameInPoint": "Bachelor",
+        "durationInPoint": 24,
+        "nextPoint": "Chief Design Drafter"
+    },
+    {
+        "nameInPoint": "Masters",
+        "durationInPoint": 24,
+        "nextPoint": "Architect Supervisor"
+    }
+]
