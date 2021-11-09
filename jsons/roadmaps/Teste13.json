@@ -1,0 +1,27 @@
+[
+	{
+		"nameInPoint": "A-13",
+		"durationInPoint": 12,
+		"nextPoint": null
+	},
+	{
+		"nameInPoint": "B-13",
+		"durationInPoint": 12,
+		"nextPoint": null
+	},
+	{
+		"nameInPoint": "C-13",
+		"durationInPoint": 12,
+		"nextPoint": null
+	},
+	{
+		"nameInPoint": "D-13",
+		"durationInPoint": 12,
+		"nextPoint": null
+	},
+	{
+		"nameInPoint": "E-13",
+		"durationInPoint": 12,
+		"nextPoint": null
+	}	
+]
